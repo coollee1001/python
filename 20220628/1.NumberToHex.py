@@ -1,4 +1,5 @@
 #10진수를 16진수로 바꾸는 코드
+#10進数を16進数に変えるコード
 def NumberToHex(Dec):
     return hex(Dec)
 
